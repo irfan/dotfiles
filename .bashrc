@@ -1,4 +1,19 @@
 # ~/.bashrc file
+# it shows pretty good terminal prompt
+# writed couple of years ago but committed in April of 2012
+# It shorter your prompt text but also make the prompt more understandable!
+#
+# Examples:
+# /opt/local/etc                :   /opt/local/etc
+# /opt/local/etc/openssl/misc   :   /opt/../openssl/misc
+#
+# In home directory:
+# /Users/irfan                                          : ~
+# ~/projects/javascript/jquery-plugins                  : ~/projects/javascript/jquery-plugins
+# ~/projects/javascript/jquery-plugins/star-rating/min  : ~/projects/../star-rating/min
+#
+# For installation just copy to your home directory
+#
 
 export CLICOLOR=1
 export LSCOLORS=ExFxCxDxBxegedabagacad
