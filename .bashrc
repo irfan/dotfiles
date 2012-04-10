@@ -1,4 +1,8 @@
 # ~/.bashrc file
+#
+# https://github.com/irfan/dotfiles
+# http://irfandurmus.com
+#
 # it shows pretty good terminal prompt
 # writed couple of years ago but committed in April of 2012
 # It shorter your prompt text but also make the prompt more understandable!
