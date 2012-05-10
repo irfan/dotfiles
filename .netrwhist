@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/irfan/projects/namshi/trunk/alice/alice/protected/themes/local/views/catalog/detail/partial/options'
+let g:netrw_dirhist_2='/home/irfan/projects/zidaya/trunk/alice/alice/public/css'
+let g:netrw_dirhist_3='/home/irfan/projects/coretr/.git'
+let g:netrw_dirhist_4='/home/irfan/projects/zidaya/bob'
+let g:netrw_dirhist_5='/home/irfan/projects/zidaya/bob/application/modules/messaging-ext/controllers'
+let g:netrw_dirhist_6='/home/irfan/projects/namshi/bob/public/js/pet'
